@@ -1,1 +1,2 @@
 # Hospital-Managment-System
+A hospital management system built with Java, JDBC, and MySQL is a software solution for efficiently organizing hospital operations. Java provides flexibility for user interfaces, JDBC ensures seamless database connectivity to MySQL for storing and retrieving data. This system streamlines tasks like patient management, appointment scheduling, billing, and inventory control, enhancing hospital efficiency and patient care.
